@@ -1,0 +1,22 @@
+{
+  "name": "travel-agency-management-system",
+  "version": "1.0.0",
+  "description": "This is an demonstration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashurox07/Travel-Agency-Management-System.git"
+  },
+  "author": "Ashis Pradhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashurox07/Travel-Agency-Management-System/issues"
+  },
+  "homepage": "https://github.com/Ashurox07/Travel-Agency-Management-System#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
